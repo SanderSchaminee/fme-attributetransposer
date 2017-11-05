@@ -5,13 +5,8 @@
 #!   IS_STAND_ALONE="true"
 #! />
 #! <GLOBAL_PARAMETER
-#!   GUI_LINE="GUI ATTRLIST_ENCODED ROW_ATTR Row Attribute(s):"
+#!   GUI_LINE="GUI ORDEREDLIST_ENCODED ROW_ATTR ATTRLIST Row Attribute(s):"
 #!   DEFAULT_VALUE=""
-#!   IS_STAND_ALONE="true"
-#! />
-#! <GLOBAL_PARAMETER
-#!   GUI_LINE="GUI IGNORE LITERAL OPTIONAL TEXT_EDIT_PYTHON_PARM ROW_ATTR_ENCODED Python Script:"
-#!   DEFAULT_VALUE="return&lt;space&gt;FME_MacroValues&lt;openbracket&gt;&lt;apos&gt;ROW_ATTR&lt;apos&gt;&lt;closebracket&gt;"
 #!   IS_STAND_ALONE="true"
 #! />
 #! </GLOBAL_PARAMETERS>
